@@ -1,7 +1,9 @@
-def StartScherm():
+def setupppppppp():
+
+
+def Setup():
   pass
-def LevelOne():
-  pass
+  
 def LevelTwo():
   pass
 
